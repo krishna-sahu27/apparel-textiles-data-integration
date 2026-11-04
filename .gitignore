@@ -1,0 +1,9 @@
+data/Fashion_Retail_Sales.csv
+data/articles.csv
+data/HnM_Articles.csv
+output/*
+!output/.gitkeep
+.venv/
+venv/
+__pycache__/
+*.py[cod]
